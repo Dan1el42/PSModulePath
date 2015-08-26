@@ -1,5 +1,4 @@
-﻿#Requires -Version 3
-function Get-PSModulePath {
+﻿function Get-PSModulePath {
 	<#
 	.SYNOPSIS
 		This gets the PSModulePath registry value
