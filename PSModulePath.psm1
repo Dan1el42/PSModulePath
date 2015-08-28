@@ -6,7 +6,7 @@
 		Created on: 	7/9/2014
 		Created by: 	Adam Bertram
 	.EXAMPLE
-		Get-PSModulePath -FolderPath 'C:\Folder'
+		Get-PSModulePath
 		This gets the PSModulePath registry value.
 	#>
 	[CmdletBinding()]
